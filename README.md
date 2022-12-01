@@ -9,5 +9,6 @@
 7. [Câu 15](https://codepen.io/truejustice3105/pen/oNyWZdV)
 8. [Câu 16](https://codepen.io/truejustice3105/pen/BaVmvmV)
 9. [Câu 17](https://codepen.io/truejustice3105/pen/JjZOwzW)
+
 ##Thực hành:
 1. [Thực hành props - state](https://codepen.io/truejustice3105/pen/GRGdabQ)
