@@ -1,5 +1,4 @@
 # MyReact
-Bài tập - thực hành React JS
 ##Lý thuyết:
 1. [Câu 9] (https://codepen.io/truejustice3105/pen/BaVzRRX)
 2. [Câu 10] (https://codepen.io/truejustice3105/pen/WNypNbq)
